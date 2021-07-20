@@ -2,7 +2,7 @@
 
 The latest version of `dharma-v2-core`, `dharma-v2-periphery` are deployed to Binance Smart Chain mainnet.
 
-These addresses are final and were deployed from these npm package versions:
+These addresses were deployed using these npm package versions:
 
 - `dharma-v3-core`: [`0.0.1`](https://github.com/DharmaExchange/dharma-v2-core/tree/v0.0.1)
 - `dharma-v2-periphery`: [`0.0.1`](https://github.com/DharmaExchange/dharma-v2-periphery/tree/v0.0.1)
